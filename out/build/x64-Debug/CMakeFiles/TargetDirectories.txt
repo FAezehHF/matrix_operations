@@ -1,0 +1,5 @@
+C:/Users/Amir Hossein/source/repos/CMakeExercise/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Amir Hossein/source/repos/CMakeExercise/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Amir Hossein/source/repos/CMakeExercise/out/build/x64-Debug/CMakeExercise/CMakeFiles/CMakeExercise.dir
+C:/Users/Amir Hossein/source/repos/CMakeExercise/out/build/x64-Debug/CMakeExercise/CMakeFiles/edit_cache.dir
+C:/Users/Amir Hossein/source/repos/CMakeExercise/out/build/x64-Debug/CMakeExercise/CMakeFiles/rebuild_cache.dir
